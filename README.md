@@ -1,5 +1,5 @@
 # Medical Record Synthesis using GPT-3.5
-# Author Dr.Nyein Chan Ko Ko (2023)
+### Author Dr.Nyein Chan Ko Ko (2023)
 
 ## Overview
 This project leverages GPT-3.5 to synthesize medical records, aiming to provide a compliant solution for researchers needing access to patient data while respecting privacy laws like HIPAA and GDPR. 
