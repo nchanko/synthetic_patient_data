@@ -36,3 +36,5 @@ The project highlights the potential of GPT-3.5 in synthesizing realistic medica
 
 ## Usage
 Install dependencies listed in `required_libraries.py`. Run `main.py` to begin synthetic medical record generation. Follow component-specific instructions for detailed operations.
+
+Read more about this project [here](https://nyeimchankoko.medium.com/medical-record-synthesis-using-llm-a796d3c67fd0)
